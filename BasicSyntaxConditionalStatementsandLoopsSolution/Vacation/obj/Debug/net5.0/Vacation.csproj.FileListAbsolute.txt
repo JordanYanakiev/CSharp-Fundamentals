@@ -1,0 +1,16 @@
+C:\Users\Johny\source\repos\BasicSyntaxConditionalStatementsandLoopsSolution\Vacation\bin\Debug\net5.0\Vacation.exe
+C:\Users\Johny\source\repos\BasicSyntaxConditionalStatementsandLoopsSolution\Vacation\bin\Debug\net5.0\Vacation.deps.json
+C:\Users\Johny\source\repos\BasicSyntaxConditionalStatementsandLoopsSolution\Vacation\bin\Debug\net5.0\Vacation.runtimeconfig.json
+C:\Users\Johny\source\repos\BasicSyntaxConditionalStatementsandLoopsSolution\Vacation\bin\Debug\net5.0\Vacation.runtimeconfig.dev.json
+C:\Users\Johny\source\repos\BasicSyntaxConditionalStatementsandLoopsSolution\Vacation\bin\Debug\net5.0\Vacation.dll
+C:\Users\Johny\source\repos\BasicSyntaxConditionalStatementsandLoopsSolution\Vacation\bin\Debug\net5.0\ref\Vacation.dll
+C:\Users\Johny\source\repos\BasicSyntaxConditionalStatementsandLoopsSolution\Vacation\bin\Debug\net5.0\Vacation.pdb
+C:\Users\Johny\source\repos\BasicSyntaxConditionalStatementsandLoopsSolution\Vacation\obj\Debug\net5.0\Vacation.csproj.AssemblyReference.cache
+C:\Users\Johny\source\repos\BasicSyntaxConditionalStatementsandLoopsSolution\Vacation\obj\Debug\net5.0\Vacation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johny\source\repos\BasicSyntaxConditionalStatementsandLoopsSolution\Vacation\obj\Debug\net5.0\Vacation.AssemblyInfoInputs.cache
+C:\Users\Johny\source\repos\BasicSyntaxConditionalStatementsandLoopsSolution\Vacation\obj\Debug\net5.0\Vacation.AssemblyInfo.cs
+C:\Users\Johny\source\repos\BasicSyntaxConditionalStatementsandLoopsSolution\Vacation\obj\Debug\net5.0\Vacation.csproj.CoreCompileInputs.cache
+C:\Users\Johny\source\repos\BasicSyntaxConditionalStatementsandLoopsSolution\Vacation\obj\Debug\net5.0\Vacation.dll
+C:\Users\Johny\source\repos\BasicSyntaxConditionalStatementsandLoopsSolution\Vacation\obj\Debug\net5.0\ref\Vacation.dll
+C:\Users\Johny\source\repos\BasicSyntaxConditionalStatementsandLoopsSolution\Vacation\obj\Debug\net5.0\Vacation.pdb
+C:\Users\Johny\source\repos\BasicSyntaxConditionalStatementsandLoopsSolution\Vacation\obj\Debug\net5.0\Vacation.genruntimeconfig.cache

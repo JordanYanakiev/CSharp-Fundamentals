@@ -1,0 +1,16 @@
+C:\Users\Johny\source\repos\BasicSyntaxConditionalStatementsandLoopsSolution\TriangleOfNumbers\bin\Debug\net5.0\TriangleOfNumbers.exe
+C:\Users\Johny\source\repos\BasicSyntaxConditionalStatementsandLoopsSolution\TriangleOfNumbers\bin\Debug\net5.0\TriangleOfNumbers.deps.json
+C:\Users\Johny\source\repos\BasicSyntaxConditionalStatementsandLoopsSolution\TriangleOfNumbers\bin\Debug\net5.0\TriangleOfNumbers.runtimeconfig.json
+C:\Users\Johny\source\repos\BasicSyntaxConditionalStatementsandLoopsSolution\TriangleOfNumbers\bin\Debug\net5.0\TriangleOfNumbers.runtimeconfig.dev.json
+C:\Users\Johny\source\repos\BasicSyntaxConditionalStatementsandLoopsSolution\TriangleOfNumbers\bin\Debug\net5.0\TriangleOfNumbers.dll
+C:\Users\Johny\source\repos\BasicSyntaxConditionalStatementsandLoopsSolution\TriangleOfNumbers\bin\Debug\net5.0\ref\TriangleOfNumbers.dll
+C:\Users\Johny\source\repos\BasicSyntaxConditionalStatementsandLoopsSolution\TriangleOfNumbers\bin\Debug\net5.0\TriangleOfNumbers.pdb
+C:\Users\Johny\source\repos\BasicSyntaxConditionalStatementsandLoopsSolution\TriangleOfNumbers\obj\Debug\net5.0\TriangleOfNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johny\source\repos\BasicSyntaxConditionalStatementsandLoopsSolution\TriangleOfNumbers\obj\Debug\net5.0\TriangleOfNumbers.AssemblyInfoInputs.cache
+C:\Users\Johny\source\repos\BasicSyntaxConditionalStatementsandLoopsSolution\TriangleOfNumbers\obj\Debug\net5.0\TriangleOfNumbers.AssemblyInfo.cs
+C:\Users\Johny\source\repos\BasicSyntaxConditionalStatementsandLoopsSolution\TriangleOfNumbers\obj\Debug\net5.0\TriangleOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Johny\source\repos\BasicSyntaxConditionalStatementsandLoopsSolution\TriangleOfNumbers\obj\Debug\net5.0\TriangleOfNumbers.dll
+C:\Users\Johny\source\repos\BasicSyntaxConditionalStatementsandLoopsSolution\TriangleOfNumbers\obj\Debug\net5.0\ref\TriangleOfNumbers.dll
+C:\Users\Johny\source\repos\BasicSyntaxConditionalStatementsandLoopsSolution\TriangleOfNumbers\obj\Debug\net5.0\TriangleOfNumbers.pdb
+C:\Users\Johny\source\repos\BasicSyntaxConditionalStatementsandLoopsSolution\TriangleOfNumbers\obj\Debug\net5.0\TriangleOfNumbers.genruntimeconfig.cache
+C:\Users\Johny\source\repos\BasicSyntaxConditionalStatementsandLoopsSolution\TriangleOfNumbers\obj\Debug\net5.0\TriangleOfNumbers.csproj.AssemblyReference.cache
