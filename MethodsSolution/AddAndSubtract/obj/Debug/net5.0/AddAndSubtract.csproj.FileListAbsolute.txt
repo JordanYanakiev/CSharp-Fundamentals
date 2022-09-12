@@ -1,0 +1,15 @@
+C:\Users\Johny\source\repos\MethodsSolution\AddAndSubtract\bin\Debug\net5.0\AddAndSubtract.exe
+C:\Users\Johny\source\repos\MethodsSolution\AddAndSubtract\bin\Debug\net5.0\AddAndSubtract.deps.json
+C:\Users\Johny\source\repos\MethodsSolution\AddAndSubtract\bin\Debug\net5.0\AddAndSubtract.runtimeconfig.json
+C:\Users\Johny\source\repos\MethodsSolution\AddAndSubtract\bin\Debug\net5.0\AddAndSubtract.runtimeconfig.dev.json
+C:\Users\Johny\source\repos\MethodsSolution\AddAndSubtract\bin\Debug\net5.0\AddAndSubtract.dll
+C:\Users\Johny\source\repos\MethodsSolution\AddAndSubtract\bin\Debug\net5.0\ref\AddAndSubtract.dll
+C:\Users\Johny\source\repos\MethodsSolution\AddAndSubtract\bin\Debug\net5.0\AddAndSubtract.pdb
+C:\Users\Johny\source\repos\MethodsSolution\AddAndSubtract\obj\Debug\net5.0\AddAndSubtract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johny\source\repos\MethodsSolution\AddAndSubtract\obj\Debug\net5.0\AddAndSubtract.AssemblyInfoInputs.cache
+C:\Users\Johny\source\repos\MethodsSolution\AddAndSubtract\obj\Debug\net5.0\AddAndSubtract.AssemblyInfo.cs
+C:\Users\Johny\source\repos\MethodsSolution\AddAndSubtract\obj\Debug\net5.0\AddAndSubtract.csproj.CoreCompileInputs.cache
+C:\Users\Johny\source\repos\MethodsSolution\AddAndSubtract\obj\Debug\net5.0\AddAndSubtract.dll
+C:\Users\Johny\source\repos\MethodsSolution\AddAndSubtract\obj\Debug\net5.0\ref\AddAndSubtract.dll
+C:\Users\Johny\source\repos\MethodsSolution\AddAndSubtract\obj\Debug\net5.0\AddAndSubtract.pdb
+C:\Users\Johny\source\repos\MethodsSolution\AddAndSubtract\obj\Debug\net5.0\AddAndSubtract.genruntimeconfig.cache

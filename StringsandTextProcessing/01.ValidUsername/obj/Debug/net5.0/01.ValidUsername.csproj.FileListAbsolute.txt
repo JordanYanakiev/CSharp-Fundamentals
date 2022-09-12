@@ -1,0 +1,16 @@
+C:\Users\Johny\source\repos\StringsandTextProcessing\01.ValidUsername\bin\Debug\net5.0\01.ValidUsername.exe
+C:\Users\Johny\source\repos\StringsandTextProcessing\01.ValidUsername\bin\Debug\net5.0\01.ValidUsername.deps.json
+C:\Users\Johny\source\repos\StringsandTextProcessing\01.ValidUsername\bin\Debug\net5.0\01.ValidUsername.runtimeconfig.json
+C:\Users\Johny\source\repos\StringsandTextProcessing\01.ValidUsername\bin\Debug\net5.0\01.ValidUsername.runtimeconfig.dev.json
+C:\Users\Johny\source\repos\StringsandTextProcessing\01.ValidUsername\bin\Debug\net5.0\01.ValidUsername.dll
+C:\Users\Johny\source\repos\StringsandTextProcessing\01.ValidUsername\bin\Debug\net5.0\ref\01.ValidUsername.dll
+C:\Users\Johny\source\repos\StringsandTextProcessing\01.ValidUsername\bin\Debug\net5.0\01.ValidUsername.pdb
+C:\Users\Johny\source\repos\StringsandTextProcessing\01.ValidUsername\obj\Debug\net5.0\01.ValidUsername.csproj.AssemblyReference.cache
+C:\Users\Johny\source\repos\StringsandTextProcessing\01.ValidUsername\obj\Debug\net5.0\01.ValidUsername.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johny\source\repos\StringsandTextProcessing\01.ValidUsername\obj\Debug\net5.0\01.ValidUsername.AssemblyInfoInputs.cache
+C:\Users\Johny\source\repos\StringsandTextProcessing\01.ValidUsername\obj\Debug\net5.0\01.ValidUsername.AssemblyInfo.cs
+C:\Users\Johny\source\repos\StringsandTextProcessing\01.ValidUsername\obj\Debug\net5.0\01.ValidUsername.csproj.CoreCompileInputs.cache
+C:\Users\Johny\source\repos\StringsandTextProcessing\01.ValidUsername\obj\Debug\net5.0\01.ValidUsername.dll
+C:\Users\Johny\source\repos\StringsandTextProcessing\01.ValidUsername\obj\Debug\net5.0\ref\01.ValidUsername.dll
+C:\Users\Johny\source\repos\StringsandTextProcessing\01.ValidUsername\obj\Debug\net5.0\01.ValidUsername.pdb
+C:\Users\Johny\source\repos\StringsandTextProcessing\01.ValidUsername\obj\Debug\net5.0\01.ValidUsername.genruntimeconfig.cache

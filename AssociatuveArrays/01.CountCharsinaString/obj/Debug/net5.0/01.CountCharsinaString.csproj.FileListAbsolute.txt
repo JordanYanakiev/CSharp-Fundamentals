@@ -1,0 +1,16 @@
+C:\Users\Johny\source\repos\AssociatuveArrays\01.CountCharsinaString\bin\Debug\net5.0\01.CountCharsinaString.exe
+C:\Users\Johny\source\repos\AssociatuveArrays\01.CountCharsinaString\bin\Debug\net5.0\01.CountCharsinaString.deps.json
+C:\Users\Johny\source\repos\AssociatuveArrays\01.CountCharsinaString\bin\Debug\net5.0\01.CountCharsinaString.runtimeconfig.json
+C:\Users\Johny\source\repos\AssociatuveArrays\01.CountCharsinaString\bin\Debug\net5.0\01.CountCharsinaString.runtimeconfig.dev.json
+C:\Users\Johny\source\repos\AssociatuveArrays\01.CountCharsinaString\bin\Debug\net5.0\01.CountCharsinaString.dll
+C:\Users\Johny\source\repos\AssociatuveArrays\01.CountCharsinaString\bin\Debug\net5.0\ref\01.CountCharsinaString.dll
+C:\Users\Johny\source\repos\AssociatuveArrays\01.CountCharsinaString\bin\Debug\net5.0\01.CountCharsinaString.pdb
+C:\Users\Johny\source\repos\AssociatuveArrays\01.CountCharsinaString\obj\Debug\net5.0\01.CountCharsinaString.csproj.AssemblyReference.cache
+C:\Users\Johny\source\repos\AssociatuveArrays\01.CountCharsinaString\obj\Debug\net5.0\01.CountCharsinaString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johny\source\repos\AssociatuveArrays\01.CountCharsinaString\obj\Debug\net5.0\01.CountCharsinaString.AssemblyInfoInputs.cache
+C:\Users\Johny\source\repos\AssociatuveArrays\01.CountCharsinaString\obj\Debug\net5.0\01.CountCharsinaString.AssemblyInfo.cs
+C:\Users\Johny\source\repos\AssociatuveArrays\01.CountCharsinaString\obj\Debug\net5.0\01.CountCharsinaString.csproj.CoreCompileInputs.cache
+C:\Users\Johny\source\repos\AssociatuveArrays\01.CountCharsinaString\obj\Debug\net5.0\01.CountCharsinaString.dll
+C:\Users\Johny\source\repos\AssociatuveArrays\01.CountCharsinaString\obj\Debug\net5.0\ref\01.CountCharsinaString.dll
+C:\Users\Johny\source\repos\AssociatuveArrays\01.CountCharsinaString\obj\Debug\net5.0\01.CountCharsinaString.pdb
+C:\Users\Johny\source\repos\AssociatuveArrays\01.CountCharsinaString\obj\Debug\net5.0\01.CountCharsinaString.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Johny\source\repos\MethodsSolution\TopNumber\bin\Debug\net5.0\TopNumber.exe
+C:\Users\Johny\source\repos\MethodsSolution\TopNumber\bin\Debug\net5.0\TopNumber.deps.json
+C:\Users\Johny\source\repos\MethodsSolution\TopNumber\bin\Debug\net5.0\TopNumber.runtimeconfig.json
+C:\Users\Johny\source\repos\MethodsSolution\TopNumber\bin\Debug\net5.0\TopNumber.runtimeconfig.dev.json
+C:\Users\Johny\source\repos\MethodsSolution\TopNumber\bin\Debug\net5.0\TopNumber.dll
+C:\Users\Johny\source\repos\MethodsSolution\TopNumber\bin\Debug\net5.0\ref\TopNumber.dll
+C:\Users\Johny\source\repos\MethodsSolution\TopNumber\bin\Debug\net5.0\TopNumber.pdb
+C:\Users\Johny\source\repos\MethodsSolution\TopNumber\obj\Debug\net5.0\TopNumber.csproj.AssemblyReference.cache
+C:\Users\Johny\source\repos\MethodsSolution\TopNumber\obj\Debug\net5.0\TopNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johny\source\repos\MethodsSolution\TopNumber\obj\Debug\net5.0\TopNumber.AssemblyInfoInputs.cache
+C:\Users\Johny\source\repos\MethodsSolution\TopNumber\obj\Debug\net5.0\TopNumber.AssemblyInfo.cs
+C:\Users\Johny\source\repos\MethodsSolution\TopNumber\obj\Debug\net5.0\TopNumber.csproj.CoreCompileInputs.cache
+C:\Users\Johny\source\repos\MethodsSolution\TopNumber\obj\Debug\net5.0\TopNumber.dll
+C:\Users\Johny\source\repos\MethodsSolution\TopNumber\obj\Debug\net5.0\ref\TopNumber.dll
+C:\Users\Johny\source\repos\MethodsSolution\TopNumber\obj\Debug\net5.0\TopNumber.pdb
+C:\Users\Johny\source\repos\MethodsSolution\TopNumber\obj\Debug\net5.0\TopNumber.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Johny\source\repos\AssociatuveArrays\06.StudentAcademy\obj\Debug\net5.0\06.StudentAcademy.csproj.AssemblyReference.cache
+C:\Users\Johny\source\repos\AssociatuveArrays\06.StudentAcademy\obj\Debug\net5.0\06.StudentAcademy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johny\source\repos\AssociatuveArrays\06.StudentAcademy\obj\Debug\net5.0\06.StudentAcademy.AssemblyInfoInputs.cache
+C:\Users\Johny\source\repos\AssociatuveArrays\06.StudentAcademy\obj\Debug\net5.0\06.StudentAcademy.AssemblyInfo.cs
+C:\Users\Johny\source\repos\AssociatuveArrays\06.StudentAcademy\obj\Debug\net5.0\06.StudentAcademy.csproj.CoreCompileInputs.cache
+C:\Users\Johny\source\repos\AssociatuveArrays\06.StudentAcademy\bin\Debug\net5.0\06.StudentAcademy.exe
+C:\Users\Johny\source\repos\AssociatuveArrays\06.StudentAcademy\bin\Debug\net5.0\06.StudentAcademy.deps.json
+C:\Users\Johny\source\repos\AssociatuveArrays\06.StudentAcademy\bin\Debug\net5.0\06.StudentAcademy.runtimeconfig.json
+C:\Users\Johny\source\repos\AssociatuveArrays\06.StudentAcademy\bin\Debug\net5.0\06.StudentAcademy.runtimeconfig.dev.json
+C:\Users\Johny\source\repos\AssociatuveArrays\06.StudentAcademy\bin\Debug\net5.0\06.StudentAcademy.dll
+C:\Users\Johny\source\repos\AssociatuveArrays\06.StudentAcademy\bin\Debug\net5.0\ref\06.StudentAcademy.dll
+C:\Users\Johny\source\repos\AssociatuveArrays\06.StudentAcademy\bin\Debug\net5.0\06.StudentAcademy.pdb
+C:\Users\Johny\source\repos\AssociatuveArrays\06.StudentAcademy\obj\Debug\net5.0\06.StudentAcademy.dll
+C:\Users\Johny\source\repos\AssociatuveArrays\06.StudentAcademy\obj\Debug\net5.0\ref\06.StudentAcademy.dll
+C:\Users\Johny\source\repos\AssociatuveArrays\06.StudentAcademy\obj\Debug\net5.0\06.StudentAcademy.pdb
+C:\Users\Johny\source\repos\AssociatuveArrays\06.StudentAcademy\obj\Debug\net5.0\06.StudentAcademy.genruntimeconfig.cache

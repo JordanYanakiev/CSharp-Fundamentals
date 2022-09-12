@@ -1,0 +1,16 @@
+C:\Users\Johny\source\repos\CSharpFundamentalsExamSolution\01.TheHuntingGames\bin\Debug\net5.0\01.TheHuntingGames.exe
+C:\Users\Johny\source\repos\CSharpFundamentalsExamSolution\01.TheHuntingGames\bin\Debug\net5.0\01.TheHuntingGames.deps.json
+C:\Users\Johny\source\repos\CSharpFundamentalsExamSolution\01.TheHuntingGames\bin\Debug\net5.0\01.TheHuntingGames.runtimeconfig.json
+C:\Users\Johny\source\repos\CSharpFundamentalsExamSolution\01.TheHuntingGames\bin\Debug\net5.0\01.TheHuntingGames.runtimeconfig.dev.json
+C:\Users\Johny\source\repos\CSharpFundamentalsExamSolution\01.TheHuntingGames\bin\Debug\net5.0\01.TheHuntingGames.dll
+C:\Users\Johny\source\repos\CSharpFundamentalsExamSolution\01.TheHuntingGames\bin\Debug\net5.0\ref\01.TheHuntingGames.dll
+C:\Users\Johny\source\repos\CSharpFundamentalsExamSolution\01.TheHuntingGames\bin\Debug\net5.0\01.TheHuntingGames.pdb
+C:\Users\Johny\source\repos\CSharpFundamentalsExamSolution\01.TheHuntingGames\obj\Debug\net5.0\01.TheHuntingGames.csproj.AssemblyReference.cache
+C:\Users\Johny\source\repos\CSharpFundamentalsExamSolution\01.TheHuntingGames\obj\Debug\net5.0\01.TheHuntingGames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johny\source\repos\CSharpFundamentalsExamSolution\01.TheHuntingGames\obj\Debug\net5.0\01.TheHuntingGames.AssemblyInfoInputs.cache
+C:\Users\Johny\source\repos\CSharpFundamentalsExamSolution\01.TheHuntingGames\obj\Debug\net5.0\01.TheHuntingGames.AssemblyInfo.cs
+C:\Users\Johny\source\repos\CSharpFundamentalsExamSolution\01.TheHuntingGames\obj\Debug\net5.0\01.TheHuntingGames.csproj.CoreCompileInputs.cache
+C:\Users\Johny\source\repos\CSharpFundamentalsExamSolution\01.TheHuntingGames\obj\Debug\net5.0\01.TheHuntingGames.dll
+C:\Users\Johny\source\repos\CSharpFundamentalsExamSolution\01.TheHuntingGames\obj\Debug\net5.0\ref\01.TheHuntingGames.dll
+C:\Users\Johny\source\repos\CSharpFundamentalsExamSolution\01.TheHuntingGames\obj\Debug\net5.0\01.TheHuntingGames.pdb
+C:\Users\Johny\source\repos\CSharpFundamentalsExamSolution\01.TheHuntingGames\obj\Debug\net5.0\01.TheHuntingGames.genruntimeconfig.cache

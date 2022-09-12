@@ -1,0 +1,16 @@
+C:\Users\Johny\source\repos\MethodsSolution\VowelsCount\bin\Debug\net5.0\VowelsCount.exe
+C:\Users\Johny\source\repos\MethodsSolution\VowelsCount\bin\Debug\net5.0\VowelsCount.deps.json
+C:\Users\Johny\source\repos\MethodsSolution\VowelsCount\bin\Debug\net5.0\VowelsCount.runtimeconfig.json
+C:\Users\Johny\source\repos\MethodsSolution\VowelsCount\bin\Debug\net5.0\VowelsCount.runtimeconfig.dev.json
+C:\Users\Johny\source\repos\MethodsSolution\VowelsCount\bin\Debug\net5.0\VowelsCount.dll
+C:\Users\Johny\source\repos\MethodsSolution\VowelsCount\bin\Debug\net5.0\ref\VowelsCount.dll
+C:\Users\Johny\source\repos\MethodsSolution\VowelsCount\bin\Debug\net5.0\VowelsCount.pdb
+C:\Users\Johny\source\repos\MethodsSolution\VowelsCount\obj\Debug\net5.0\VowelsCount.csproj.AssemblyReference.cache
+C:\Users\Johny\source\repos\MethodsSolution\VowelsCount\obj\Debug\net5.0\VowelsCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johny\source\repos\MethodsSolution\VowelsCount\obj\Debug\net5.0\VowelsCount.AssemblyInfoInputs.cache
+C:\Users\Johny\source\repos\MethodsSolution\VowelsCount\obj\Debug\net5.0\VowelsCount.AssemblyInfo.cs
+C:\Users\Johny\source\repos\MethodsSolution\VowelsCount\obj\Debug\net5.0\VowelsCount.csproj.CoreCompileInputs.cache
+C:\Users\Johny\source\repos\MethodsSolution\VowelsCount\obj\Debug\net5.0\VowelsCount.dll
+C:\Users\Johny\source\repos\MethodsSolution\VowelsCount\obj\Debug\net5.0\ref\VowelsCount.dll
+C:\Users\Johny\source\repos\MethodsSolution\VowelsCount\obj\Debug\net5.0\VowelsCount.pdb
+C:\Users\Johny\source\repos\MethodsSolution\VowelsCount\obj\Debug\net5.0\VowelsCount.genruntimeconfig.cache

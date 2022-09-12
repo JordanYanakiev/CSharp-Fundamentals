@@ -1,0 +1,16 @@
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\PrintPartoftheASCIITable\bin\Debug\net5.0\PrintPartoftheASCIITable.exe
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\PrintPartoftheASCIITable\bin\Debug\net5.0\PrintPartoftheASCIITable.deps.json
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\PrintPartoftheASCIITable\bin\Debug\net5.0\PrintPartoftheASCIITable.runtimeconfig.json
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\PrintPartoftheASCIITable\bin\Debug\net5.0\PrintPartoftheASCIITable.runtimeconfig.dev.json
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\PrintPartoftheASCIITable\bin\Debug\net5.0\PrintPartoftheASCIITable.dll
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\PrintPartoftheASCIITable\bin\Debug\net5.0\ref\PrintPartoftheASCIITable.dll
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\PrintPartoftheASCIITable\bin\Debug\net5.0\PrintPartoftheASCIITable.pdb
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\PrintPartoftheASCIITable\obj\Debug\net5.0\PrintPartoftheASCIITable.csproj.AssemblyReference.cache
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\PrintPartoftheASCIITable\obj\Debug\net5.0\PrintPartoftheASCIITable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\PrintPartoftheASCIITable\obj\Debug\net5.0\PrintPartoftheASCIITable.AssemblyInfoInputs.cache
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\PrintPartoftheASCIITable\obj\Debug\net5.0\PrintPartoftheASCIITable.AssemblyInfo.cs
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\PrintPartoftheASCIITable\obj\Debug\net5.0\PrintPartoftheASCIITable.csproj.CoreCompileInputs.cache
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\PrintPartoftheASCIITable\obj\Debug\net5.0\PrintPartoftheASCIITable.dll
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\PrintPartoftheASCIITable\obj\Debug\net5.0\ref\PrintPartoftheASCIITable.dll
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\PrintPartoftheASCIITable\obj\Debug\net5.0\PrintPartoftheASCIITable.pdb
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\PrintPartoftheASCIITable\obj\Debug\net5.0\PrintPartoftheASCIITable.genruntimeconfig.cache

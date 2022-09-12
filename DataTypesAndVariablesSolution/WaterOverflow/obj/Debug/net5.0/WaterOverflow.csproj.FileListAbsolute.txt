@@ -1,0 +1,15 @@
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\WaterOverflow\bin\Debug\net5.0\WaterOverflow.exe
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\WaterOverflow\bin\Debug\net5.0\WaterOverflow.deps.json
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\WaterOverflow\bin\Debug\net5.0\WaterOverflow.runtimeconfig.json
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\WaterOverflow\bin\Debug\net5.0\WaterOverflow.runtimeconfig.dev.json
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\WaterOverflow\bin\Debug\net5.0\WaterOverflow.dll
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\WaterOverflow\bin\Debug\net5.0\ref\WaterOverflow.dll
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\WaterOverflow\bin\Debug\net5.0\WaterOverflow.pdb
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\WaterOverflow\obj\Debug\net5.0\WaterOverflow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\WaterOverflow\obj\Debug\net5.0\WaterOverflow.AssemblyInfoInputs.cache
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\WaterOverflow\obj\Debug\net5.0\WaterOverflow.AssemblyInfo.cs
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\WaterOverflow\obj\Debug\net5.0\WaterOverflow.csproj.CoreCompileInputs.cache
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\WaterOverflow\obj\Debug\net5.0\WaterOverflow.dll
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\WaterOverflow\obj\Debug\net5.0\ref\WaterOverflow.dll
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\WaterOverflow\obj\Debug\net5.0\WaterOverflow.pdb
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\WaterOverflow\obj\Debug\net5.0\WaterOverflow.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Johny\source\repos\ListsSolution\04.ListOperations\bin\Debug\net5.0\04.ListOperations.exe
+C:\Users\Johny\source\repos\ListsSolution\04.ListOperations\bin\Debug\net5.0\04.ListOperations.deps.json
+C:\Users\Johny\source\repos\ListsSolution\04.ListOperations\bin\Debug\net5.0\04.ListOperations.runtimeconfig.json
+C:\Users\Johny\source\repos\ListsSolution\04.ListOperations\bin\Debug\net5.0\04.ListOperations.runtimeconfig.dev.json
+C:\Users\Johny\source\repos\ListsSolution\04.ListOperations\bin\Debug\net5.0\04.ListOperations.dll
+C:\Users\Johny\source\repos\ListsSolution\04.ListOperations\bin\Debug\net5.0\ref\04.ListOperations.dll
+C:\Users\Johny\source\repos\ListsSolution\04.ListOperations\bin\Debug\net5.0\04.ListOperations.pdb
+C:\Users\Johny\source\repos\ListsSolution\04.ListOperations\obj\Debug\net5.0\04.ListOperations.csproj.AssemblyReference.cache
+C:\Users\Johny\source\repos\ListsSolution\04.ListOperations\obj\Debug\net5.0\04.ListOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johny\source\repos\ListsSolution\04.ListOperations\obj\Debug\net5.0\04.ListOperations.AssemblyInfoInputs.cache
+C:\Users\Johny\source\repos\ListsSolution\04.ListOperations\obj\Debug\net5.0\04.ListOperations.AssemblyInfo.cs
+C:\Users\Johny\source\repos\ListsSolution\04.ListOperations\obj\Debug\net5.0\04.ListOperations.csproj.CoreCompileInputs.cache
+C:\Users\Johny\source\repos\ListsSolution\04.ListOperations\obj\Debug\net5.0\04.ListOperations.dll
+C:\Users\Johny\source\repos\ListsSolution\04.ListOperations\obj\Debug\net5.0\ref\04.ListOperations.dll
+C:\Users\Johny\source\repos\ListsSolution\04.ListOperations\obj\Debug\net5.0\04.ListOperations.pdb
+C:\Users\Johny\source\repos\ListsSolution\04.ListOperations\obj\Debug\net5.0\04.ListOperations.genruntimeconfig.cache

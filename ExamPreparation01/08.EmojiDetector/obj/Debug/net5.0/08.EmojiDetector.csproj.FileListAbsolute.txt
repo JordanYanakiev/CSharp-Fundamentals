@@ -1,0 +1,16 @@
+C:\Users\Johny\source\repos\ExamPreparation01\08.EmojiDetector\bin\Debug\net5.0\08.EmojiDetector.exe
+C:\Users\Johny\source\repos\ExamPreparation01\08.EmojiDetector\bin\Debug\net5.0\08.EmojiDetector.deps.json
+C:\Users\Johny\source\repos\ExamPreparation01\08.EmojiDetector\bin\Debug\net5.0\08.EmojiDetector.runtimeconfig.json
+C:\Users\Johny\source\repos\ExamPreparation01\08.EmojiDetector\bin\Debug\net5.0\08.EmojiDetector.runtimeconfig.dev.json
+C:\Users\Johny\source\repos\ExamPreparation01\08.EmojiDetector\bin\Debug\net5.0\08.EmojiDetector.dll
+C:\Users\Johny\source\repos\ExamPreparation01\08.EmojiDetector\bin\Debug\net5.0\ref\08.EmojiDetector.dll
+C:\Users\Johny\source\repos\ExamPreparation01\08.EmojiDetector\bin\Debug\net5.0\08.EmojiDetector.pdb
+C:\Users\Johny\source\repos\ExamPreparation01\08.EmojiDetector\obj\Debug\net5.0\08.EmojiDetector.csproj.AssemblyReference.cache
+C:\Users\Johny\source\repos\ExamPreparation01\08.EmojiDetector\obj\Debug\net5.0\08.EmojiDetector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johny\source\repos\ExamPreparation01\08.EmojiDetector\obj\Debug\net5.0\08.EmojiDetector.AssemblyInfoInputs.cache
+C:\Users\Johny\source\repos\ExamPreparation01\08.EmojiDetector\obj\Debug\net5.0\08.EmojiDetector.AssemblyInfo.cs
+C:\Users\Johny\source\repos\ExamPreparation01\08.EmojiDetector\obj\Debug\net5.0\08.EmojiDetector.csproj.CoreCompileInputs.cache
+C:\Users\Johny\source\repos\ExamPreparation01\08.EmojiDetector\obj\Debug\net5.0\08.EmojiDetector.dll
+C:\Users\Johny\source\repos\ExamPreparation01\08.EmojiDetector\obj\Debug\net5.0\ref\08.EmojiDetector.dll
+C:\Users\Johny\source\repos\ExamPreparation01\08.EmojiDetector\obj\Debug\net5.0\08.EmojiDetector.pdb
+C:\Users\Johny\source\repos\ExamPreparation01\08.EmojiDetector\obj\Debug\net5.0\08.EmojiDetector.genruntimeconfig.cache

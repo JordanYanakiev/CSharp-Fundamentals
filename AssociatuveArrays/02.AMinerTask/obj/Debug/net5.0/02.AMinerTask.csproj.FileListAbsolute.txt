@@ -1,0 +1,16 @@
+C:\Users\Johny\source\repos\AssociatuveArrays\02.AMinerTask\bin\Debug\net5.0\02.AMinerTask.exe
+C:\Users\Johny\source\repos\AssociatuveArrays\02.AMinerTask\bin\Debug\net5.0\02.AMinerTask.deps.json
+C:\Users\Johny\source\repos\AssociatuveArrays\02.AMinerTask\bin\Debug\net5.0\02.AMinerTask.runtimeconfig.json
+C:\Users\Johny\source\repos\AssociatuveArrays\02.AMinerTask\bin\Debug\net5.0\02.AMinerTask.runtimeconfig.dev.json
+C:\Users\Johny\source\repos\AssociatuveArrays\02.AMinerTask\bin\Debug\net5.0\02.AMinerTask.dll
+C:\Users\Johny\source\repos\AssociatuveArrays\02.AMinerTask\bin\Debug\net5.0\ref\02.AMinerTask.dll
+C:\Users\Johny\source\repos\AssociatuveArrays\02.AMinerTask\bin\Debug\net5.0\02.AMinerTask.pdb
+C:\Users\Johny\source\repos\AssociatuveArrays\02.AMinerTask\obj\Debug\net5.0\02.AMinerTask.csproj.AssemblyReference.cache
+C:\Users\Johny\source\repos\AssociatuveArrays\02.AMinerTask\obj\Debug\net5.0\02.AMinerTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johny\source\repos\AssociatuveArrays\02.AMinerTask\obj\Debug\net5.0\02.AMinerTask.AssemblyInfoInputs.cache
+C:\Users\Johny\source\repos\AssociatuveArrays\02.AMinerTask\obj\Debug\net5.0\02.AMinerTask.AssemblyInfo.cs
+C:\Users\Johny\source\repos\AssociatuveArrays\02.AMinerTask\obj\Debug\net5.0\02.AMinerTask.csproj.CoreCompileInputs.cache
+C:\Users\Johny\source\repos\AssociatuveArrays\02.AMinerTask\obj\Debug\net5.0\02.AMinerTask.dll
+C:\Users\Johny\source\repos\AssociatuveArrays\02.AMinerTask\obj\Debug\net5.0\ref\02.AMinerTask.dll
+C:\Users\Johny\source\repos\AssociatuveArrays\02.AMinerTask\obj\Debug\net5.0\02.AMinerTask.pdb
+C:\Users\Johny\source\repos\AssociatuveArrays\02.AMinerTask\obj\Debug\net5.0\02.AMinerTask.genruntimeconfig.cache

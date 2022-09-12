@@ -1,0 +1,16 @@
+C:\Users\Johny\source\repos\ListsSolution\HouseParty\bin\Debug\net5.0\03.HouseParty.exe
+C:\Users\Johny\source\repos\ListsSolution\HouseParty\bin\Debug\net5.0\03.HouseParty.deps.json
+C:\Users\Johny\source\repos\ListsSolution\HouseParty\bin\Debug\net5.0\03.HouseParty.runtimeconfig.json
+C:\Users\Johny\source\repos\ListsSolution\HouseParty\bin\Debug\net5.0\03.HouseParty.runtimeconfig.dev.json
+C:\Users\Johny\source\repos\ListsSolution\HouseParty\bin\Debug\net5.0\03.HouseParty.dll
+C:\Users\Johny\source\repos\ListsSolution\HouseParty\bin\Debug\net5.0\ref\03.HouseParty.dll
+C:\Users\Johny\source\repos\ListsSolution\HouseParty\bin\Debug\net5.0\03.HouseParty.pdb
+C:\Users\Johny\source\repos\ListsSolution\HouseParty\obj\Debug\net5.0\03.HouseParty.csproj.AssemblyReference.cache
+C:\Users\Johny\source\repos\ListsSolution\HouseParty\obj\Debug\net5.0\03.HouseParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johny\source\repos\ListsSolution\HouseParty\obj\Debug\net5.0\03.HouseParty.AssemblyInfoInputs.cache
+C:\Users\Johny\source\repos\ListsSolution\HouseParty\obj\Debug\net5.0\03.HouseParty.AssemblyInfo.cs
+C:\Users\Johny\source\repos\ListsSolution\HouseParty\obj\Debug\net5.0\03.HouseParty.csproj.CoreCompileInputs.cache
+C:\Users\Johny\source\repos\ListsSolution\HouseParty\obj\Debug\net5.0\03.HouseParty.dll
+C:\Users\Johny\source\repos\ListsSolution\HouseParty\obj\Debug\net5.0\ref\03.HouseParty.dll
+C:\Users\Johny\source\repos\ListsSolution\HouseParty\obj\Debug\net5.0\03.HouseParty.pdb
+C:\Users\Johny\source\repos\ListsSolution\HouseParty\obj\Debug\net5.0\03.HouseParty.genruntimeconfig.cache

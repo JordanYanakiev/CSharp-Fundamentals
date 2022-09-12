@@ -1,0 +1,16 @@
+C:\Users\Johny\source\repos\AssociatuveArrays\03.Orders\bin\Debug\net5.0\03.Orders.exe
+C:\Users\Johny\source\repos\AssociatuveArrays\03.Orders\bin\Debug\net5.0\03.Orders.deps.json
+C:\Users\Johny\source\repos\AssociatuveArrays\03.Orders\bin\Debug\net5.0\03.Orders.runtimeconfig.json
+C:\Users\Johny\source\repos\AssociatuveArrays\03.Orders\bin\Debug\net5.0\03.Orders.runtimeconfig.dev.json
+C:\Users\Johny\source\repos\AssociatuveArrays\03.Orders\bin\Debug\net5.0\03.Orders.dll
+C:\Users\Johny\source\repos\AssociatuveArrays\03.Orders\bin\Debug\net5.0\ref\03.Orders.dll
+C:\Users\Johny\source\repos\AssociatuveArrays\03.Orders\bin\Debug\net5.0\03.Orders.pdb
+C:\Users\Johny\source\repos\AssociatuveArrays\03.Orders\obj\Debug\net5.0\03.Orders.csproj.AssemblyReference.cache
+C:\Users\Johny\source\repos\AssociatuveArrays\03.Orders\obj\Debug\net5.0\03.Orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johny\source\repos\AssociatuveArrays\03.Orders\obj\Debug\net5.0\03.Orders.AssemblyInfoInputs.cache
+C:\Users\Johny\source\repos\AssociatuveArrays\03.Orders\obj\Debug\net5.0\03.Orders.AssemblyInfo.cs
+C:\Users\Johny\source\repos\AssociatuveArrays\03.Orders\obj\Debug\net5.0\03.Orders.csproj.CoreCompileInputs.cache
+C:\Users\Johny\source\repos\AssociatuveArrays\03.Orders\obj\Debug\net5.0\03.Orders.dll
+C:\Users\Johny\source\repos\AssociatuveArrays\03.Orders\obj\Debug\net5.0\ref\03.Orders.dll
+C:\Users\Johny\source\repos\AssociatuveArrays\03.Orders\obj\Debug\net5.0\03.Orders.pdb
+C:\Users\Johny\source\repos\AssociatuveArrays\03.Orders\obj\Debug\net5.0\03.Orders.genruntimeconfig.cache

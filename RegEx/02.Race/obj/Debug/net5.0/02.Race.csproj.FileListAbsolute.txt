@@ -1,0 +1,16 @@
+C:\Users\Johny\source\repos\RegEx\02.Race\bin\Debug\net5.0\02.Race.exe
+C:\Users\Johny\source\repos\RegEx\02.Race\bin\Debug\net5.0\02.Race.deps.json
+C:\Users\Johny\source\repos\RegEx\02.Race\bin\Debug\net5.0\02.Race.runtimeconfig.json
+C:\Users\Johny\source\repos\RegEx\02.Race\bin\Debug\net5.0\02.Race.runtimeconfig.dev.json
+C:\Users\Johny\source\repos\RegEx\02.Race\bin\Debug\net5.0\02.Race.dll
+C:\Users\Johny\source\repos\RegEx\02.Race\bin\Debug\net5.0\ref\02.Race.dll
+C:\Users\Johny\source\repos\RegEx\02.Race\bin\Debug\net5.0\02.Race.pdb
+C:\Users\Johny\source\repos\RegEx\02.Race\obj\Debug\net5.0\02.Race.csproj.AssemblyReference.cache
+C:\Users\Johny\source\repos\RegEx\02.Race\obj\Debug\net5.0\02.Race.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johny\source\repos\RegEx\02.Race\obj\Debug\net5.0\02.Race.AssemblyInfoInputs.cache
+C:\Users\Johny\source\repos\RegEx\02.Race\obj\Debug\net5.0\02.Race.AssemblyInfo.cs
+C:\Users\Johny\source\repos\RegEx\02.Race\obj\Debug\net5.0\02.Race.csproj.CoreCompileInputs.cache
+C:\Users\Johny\source\repos\RegEx\02.Race\obj\Debug\net5.0\02.Race.dll
+C:\Users\Johny\source\repos\RegEx\02.Race\obj\Debug\net5.0\ref\02.Race.dll
+C:\Users\Johny\source\repos\RegEx\02.Race\obj\Debug\net5.0\02.Race.pdb
+C:\Users\Johny\source\repos\RegEx\02.Race\obj\Debug\net5.0\02.Race.genruntimeconfig.cache

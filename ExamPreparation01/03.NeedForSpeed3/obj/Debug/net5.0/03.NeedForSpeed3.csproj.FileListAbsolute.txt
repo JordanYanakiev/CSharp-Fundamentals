@@ -1,0 +1,16 @@
+C:\Users\Johny\source\repos\ExamPreparation01\03.NeedForSpeed3\bin\Debug\net5.0\03.NeedForSpeed3.exe
+C:\Users\Johny\source\repos\ExamPreparation01\03.NeedForSpeed3\bin\Debug\net5.0\03.NeedForSpeed3.deps.json
+C:\Users\Johny\source\repos\ExamPreparation01\03.NeedForSpeed3\bin\Debug\net5.0\03.NeedForSpeed3.runtimeconfig.json
+C:\Users\Johny\source\repos\ExamPreparation01\03.NeedForSpeed3\bin\Debug\net5.0\03.NeedForSpeed3.runtimeconfig.dev.json
+C:\Users\Johny\source\repos\ExamPreparation01\03.NeedForSpeed3\bin\Debug\net5.0\03.NeedForSpeed3.dll
+C:\Users\Johny\source\repos\ExamPreparation01\03.NeedForSpeed3\bin\Debug\net5.0\ref\03.NeedForSpeed3.dll
+C:\Users\Johny\source\repos\ExamPreparation01\03.NeedForSpeed3\bin\Debug\net5.0\03.NeedForSpeed3.pdb
+C:\Users\Johny\source\repos\ExamPreparation01\03.NeedForSpeed3\obj\Debug\net5.0\03.NeedForSpeed3.csproj.AssemblyReference.cache
+C:\Users\Johny\source\repos\ExamPreparation01\03.NeedForSpeed3\obj\Debug\net5.0\03.NeedForSpeed3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johny\source\repos\ExamPreparation01\03.NeedForSpeed3\obj\Debug\net5.0\03.NeedForSpeed3.AssemblyInfoInputs.cache
+C:\Users\Johny\source\repos\ExamPreparation01\03.NeedForSpeed3\obj\Debug\net5.0\03.NeedForSpeed3.AssemblyInfo.cs
+C:\Users\Johny\source\repos\ExamPreparation01\03.NeedForSpeed3\obj\Debug\net5.0\03.NeedForSpeed3.csproj.CoreCompileInputs.cache
+C:\Users\Johny\source\repos\ExamPreparation01\03.NeedForSpeed3\obj\Debug\net5.0\03.NeedForSpeed3.dll
+C:\Users\Johny\source\repos\ExamPreparation01\03.NeedForSpeed3\obj\Debug\net5.0\ref\03.NeedForSpeed3.dll
+C:\Users\Johny\source\repos\ExamPreparation01\03.NeedForSpeed3\obj\Debug\net5.0\03.NeedForSpeed3.pdb
+C:\Users\Johny\source\repos\ExamPreparation01\03.NeedForSpeed3\obj\Debug\net5.0\03.NeedForSpeed3.genruntimeconfig.cache

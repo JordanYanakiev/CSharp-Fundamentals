@@ -1,0 +1,16 @@
+C:\Users\Johny\source\repos\ExamPreparation01\04.FancyBarcodes\bin\Debug\net5.0\04.FancyBarcodes.exe
+C:\Users\Johny\source\repos\ExamPreparation01\04.FancyBarcodes\bin\Debug\net5.0\04.FancyBarcodes.deps.json
+C:\Users\Johny\source\repos\ExamPreparation01\04.FancyBarcodes\bin\Debug\net5.0\04.FancyBarcodes.runtimeconfig.json
+C:\Users\Johny\source\repos\ExamPreparation01\04.FancyBarcodes\bin\Debug\net5.0\04.FancyBarcodes.runtimeconfig.dev.json
+C:\Users\Johny\source\repos\ExamPreparation01\04.FancyBarcodes\bin\Debug\net5.0\04.FancyBarcodes.dll
+C:\Users\Johny\source\repos\ExamPreparation01\04.FancyBarcodes\bin\Debug\net5.0\ref\04.FancyBarcodes.dll
+C:\Users\Johny\source\repos\ExamPreparation01\04.FancyBarcodes\bin\Debug\net5.0\04.FancyBarcodes.pdb
+C:\Users\Johny\source\repos\ExamPreparation01\04.FancyBarcodes\obj\Debug\net5.0\04.FancyBarcodes.csproj.AssemblyReference.cache
+C:\Users\Johny\source\repos\ExamPreparation01\04.FancyBarcodes\obj\Debug\net5.0\04.FancyBarcodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johny\source\repos\ExamPreparation01\04.FancyBarcodes\obj\Debug\net5.0\04.FancyBarcodes.AssemblyInfoInputs.cache
+C:\Users\Johny\source\repos\ExamPreparation01\04.FancyBarcodes\obj\Debug\net5.0\04.FancyBarcodes.AssemblyInfo.cs
+C:\Users\Johny\source\repos\ExamPreparation01\04.FancyBarcodes\obj\Debug\net5.0\04.FancyBarcodes.csproj.CoreCompileInputs.cache
+C:\Users\Johny\source\repos\ExamPreparation01\04.FancyBarcodes\obj\Debug\net5.0\04.FancyBarcodes.dll
+C:\Users\Johny\source\repos\ExamPreparation01\04.FancyBarcodes\obj\Debug\net5.0\ref\04.FancyBarcodes.dll
+C:\Users\Johny\source\repos\ExamPreparation01\04.FancyBarcodes\obj\Debug\net5.0\04.FancyBarcodes.pdb
+C:\Users\Johny\source\repos\ExamPreparation01\04.FancyBarcodes\obj\Debug\net5.0\04.FancyBarcodes.genruntimeconfig.cache

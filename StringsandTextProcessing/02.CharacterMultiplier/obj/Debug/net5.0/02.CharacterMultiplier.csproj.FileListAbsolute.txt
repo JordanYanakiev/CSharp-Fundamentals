@@ -1,0 +1,16 @@
+C:\Users\Johny\source\repos\StringsandTextProcessing\02.CharacterMultiplier\bin\Debug\net5.0\02.CharacterMultiplier.exe
+C:\Users\Johny\source\repos\StringsandTextProcessing\02.CharacterMultiplier\bin\Debug\net5.0\02.CharacterMultiplier.deps.json
+C:\Users\Johny\source\repos\StringsandTextProcessing\02.CharacterMultiplier\bin\Debug\net5.0\02.CharacterMultiplier.runtimeconfig.json
+C:\Users\Johny\source\repos\StringsandTextProcessing\02.CharacterMultiplier\bin\Debug\net5.0\02.CharacterMultiplier.runtimeconfig.dev.json
+C:\Users\Johny\source\repos\StringsandTextProcessing\02.CharacterMultiplier\bin\Debug\net5.0\02.CharacterMultiplier.dll
+C:\Users\Johny\source\repos\StringsandTextProcessing\02.CharacterMultiplier\bin\Debug\net5.0\ref\02.CharacterMultiplier.dll
+C:\Users\Johny\source\repos\StringsandTextProcessing\02.CharacterMultiplier\bin\Debug\net5.0\02.CharacterMultiplier.pdb
+C:\Users\Johny\source\repos\StringsandTextProcessing\02.CharacterMultiplier\obj\Debug\net5.0\02.CharacterMultiplier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johny\source\repos\StringsandTextProcessing\02.CharacterMultiplier\obj\Debug\net5.0\02.CharacterMultiplier.AssemblyInfoInputs.cache
+C:\Users\Johny\source\repos\StringsandTextProcessing\02.CharacterMultiplier\obj\Debug\net5.0\02.CharacterMultiplier.AssemblyInfo.cs
+C:\Users\Johny\source\repos\StringsandTextProcessing\02.CharacterMultiplier\obj\Debug\net5.0\02.CharacterMultiplier.csproj.CoreCompileInputs.cache
+C:\Users\Johny\source\repos\StringsandTextProcessing\02.CharacterMultiplier\obj\Debug\net5.0\02.CharacterMultiplier.dll
+C:\Users\Johny\source\repos\StringsandTextProcessing\02.CharacterMultiplier\obj\Debug\net5.0\ref\02.CharacterMultiplier.dll
+C:\Users\Johny\source\repos\StringsandTextProcessing\02.CharacterMultiplier\obj\Debug\net5.0\02.CharacterMultiplier.pdb
+C:\Users\Johny\source\repos\StringsandTextProcessing\02.CharacterMultiplier\obj\Debug\net5.0\02.CharacterMultiplier.genruntimeconfig.cache
+C:\Users\Johny\source\repos\StringsandTextProcessing\02.CharacterMultiplier\obj\Debug\net5.0\02.CharacterMultiplier.csproj.AssemblyReference.cache

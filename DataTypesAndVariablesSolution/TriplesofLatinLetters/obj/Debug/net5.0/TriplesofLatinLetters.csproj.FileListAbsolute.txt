@@ -1,0 +1,15 @@
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\TriplesofLatinLetters\bin\Debug\net5.0\TriplesofLatinLetters.exe
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\TriplesofLatinLetters\bin\Debug\net5.0\TriplesofLatinLetters.deps.json
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\TriplesofLatinLetters\bin\Debug\net5.0\TriplesofLatinLetters.runtimeconfig.json
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\TriplesofLatinLetters\bin\Debug\net5.0\TriplesofLatinLetters.runtimeconfig.dev.json
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\TriplesofLatinLetters\bin\Debug\net5.0\TriplesofLatinLetters.dll
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\TriplesofLatinLetters\bin\Debug\net5.0\ref\TriplesofLatinLetters.dll
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\TriplesofLatinLetters\bin\Debug\net5.0\TriplesofLatinLetters.pdb
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\TriplesofLatinLetters\obj\Debug\net5.0\TriplesofLatinLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\TriplesofLatinLetters\obj\Debug\net5.0\TriplesofLatinLetters.AssemblyInfoInputs.cache
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\TriplesofLatinLetters\obj\Debug\net5.0\TriplesofLatinLetters.AssemblyInfo.cs
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\TriplesofLatinLetters\obj\Debug\net5.0\TriplesofLatinLetters.csproj.CoreCompileInputs.cache
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\TriplesofLatinLetters\obj\Debug\net5.0\TriplesofLatinLetters.dll
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\TriplesofLatinLetters\obj\Debug\net5.0\ref\TriplesofLatinLetters.dll
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\TriplesofLatinLetters\obj\Debug\net5.0\TriplesofLatinLetters.pdb
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\TriplesofLatinLetters\obj\Debug\net5.0\TriplesofLatinLetters.genruntimeconfig.cache

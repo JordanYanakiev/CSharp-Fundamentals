@@ -1,0 +1,16 @@
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\IntegerOperations\bin\Debug\net5.0\IntegerOperations.exe
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\IntegerOperations\bin\Debug\net5.0\IntegerOperations.deps.json
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\IntegerOperations\bin\Debug\net5.0\IntegerOperations.runtimeconfig.json
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\IntegerOperations\bin\Debug\net5.0\IntegerOperations.runtimeconfig.dev.json
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\IntegerOperations\bin\Debug\net5.0\IntegerOperations.dll
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\IntegerOperations\bin\Debug\net5.0\ref\IntegerOperations.dll
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\IntegerOperations\bin\Debug\net5.0\IntegerOperations.pdb
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\IntegerOperations\obj\Debug\net5.0\IntegerOperations.csproj.AssemblyReference.cache
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\IntegerOperations\obj\Debug\net5.0\IntegerOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\IntegerOperations\obj\Debug\net5.0\IntegerOperations.AssemblyInfoInputs.cache
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\IntegerOperations\obj\Debug\net5.0\IntegerOperations.AssemblyInfo.cs
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\IntegerOperations\obj\Debug\net5.0\IntegerOperations.csproj.CoreCompileInputs.cache
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\IntegerOperations\obj\Debug\net5.0\IntegerOperations.dll
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\IntegerOperations\obj\Debug\net5.0\ref\IntegerOperations.dll
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\IntegerOperations\obj\Debug\net5.0\IntegerOperations.pdb
+C:\Users\Johny\source\repos\DataTypesAndVariablesSolution\IntegerOperations\obj\Debug\net5.0\IntegerOperations.genruntimeconfig.cache

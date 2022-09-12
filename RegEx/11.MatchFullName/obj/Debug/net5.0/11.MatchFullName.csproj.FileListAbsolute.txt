@@ -1,0 +1,16 @@
+C:\Users\Johny\source\repos\RegEx\11.MatchFullName\bin\Debug\net5.0\11.MatchFullName.exe
+C:\Users\Johny\source\repos\RegEx\11.MatchFullName\bin\Debug\net5.0\11.MatchFullName.deps.json
+C:\Users\Johny\source\repos\RegEx\11.MatchFullName\bin\Debug\net5.0\11.MatchFullName.runtimeconfig.json
+C:\Users\Johny\source\repos\RegEx\11.MatchFullName\bin\Debug\net5.0\11.MatchFullName.runtimeconfig.dev.json
+C:\Users\Johny\source\repos\RegEx\11.MatchFullName\bin\Debug\net5.0\11.MatchFullName.dll
+C:\Users\Johny\source\repos\RegEx\11.MatchFullName\bin\Debug\net5.0\ref\11.MatchFullName.dll
+C:\Users\Johny\source\repos\RegEx\11.MatchFullName\bin\Debug\net5.0\11.MatchFullName.pdb
+C:\Users\Johny\source\repos\RegEx\11.MatchFullName\obj\Debug\net5.0\11.MatchFullName.csproj.AssemblyReference.cache
+C:\Users\Johny\source\repos\RegEx\11.MatchFullName\obj\Debug\net5.0\11.MatchFullName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johny\source\repos\RegEx\11.MatchFullName\obj\Debug\net5.0\11.MatchFullName.AssemblyInfoInputs.cache
+C:\Users\Johny\source\repos\RegEx\11.MatchFullName\obj\Debug\net5.0\11.MatchFullName.AssemblyInfo.cs
+C:\Users\Johny\source\repos\RegEx\11.MatchFullName\obj\Debug\net5.0\11.MatchFullName.csproj.CoreCompileInputs.cache
+C:\Users\Johny\source\repos\RegEx\11.MatchFullName\obj\Debug\net5.0\11.MatchFullName.dll
+C:\Users\Johny\source\repos\RegEx\11.MatchFullName\obj\Debug\net5.0\ref\11.MatchFullName.dll
+C:\Users\Johny\source\repos\RegEx\11.MatchFullName\obj\Debug\net5.0\11.MatchFullName.pdb
+C:\Users\Johny\source\repos\RegEx\11.MatchFullName\obj\Debug\net5.0\11.MatchFullName.genruntimeconfig.cache
